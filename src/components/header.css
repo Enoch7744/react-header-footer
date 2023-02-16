@@ -1,0 +1,14 @@
+@media screen and (max-width: 768px) {
+    .header__navigation {
+      display: block;
+    }
+  
+    .header__navigation-list {
+      flex-direction: column;
+    }
+  
+    .header__navigation-item {
+      margin: 10px 0;
+    }
+  }
+  
